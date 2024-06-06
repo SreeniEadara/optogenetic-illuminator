@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "viewer_rev2-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/viewer_rev2-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "IDEAL_DIODE")(type "KiCad")(uri "${KIPRJMOD}/IDEAL_DIODE.kicad_sym")(options "")(descr ""))
+)
