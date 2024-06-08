@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\4iron\Documents\optogenetic_illuminator\PCB\viewer_rev2.kicad_sch</source>
-    <date>6/8/2024 12:59:06 PM</date>
+    <date>6/8/2024 1:19:53 PM</date>
     <tool>Eeschema 7.0.10</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -151,10 +151,12 @@
       <fields>
         <field name="DigiKey">ZXMN4A06GCT-ND</field>
         <field name="JLC">C155253</field>
+        <field name="Mouser">522-ZXMN4A06GTA</field>
       </fields>
       <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
       <property name="DigiKey" value="ZXMN4A06GCT-ND"/>
       <property name="JLC" value="C155253"/>
+      <property name="Mouser" value="522-ZXMN4A06GTA"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
       <property name="ki_description" value="N-MOSFET transistor, gate/drain/source"/>
@@ -196,13 +198,11 @@
       <value>1K</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-1.0KARCT-ND</field>
         <field name="JLC">C21190</field>
-        <field name="Mouser">603-RC0805JR-071KL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="DigiKey" value="311-1.0KARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-071KL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
@@ -215,13 +215,11 @@
       <value>1K</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-1.0KARCT-ND</field>
         <field name="JLC">C21190</field>
-        <field name="Mouser">603-RC0805JR-071KL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="DigiKey" value="311-1.0KARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-071KL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
@@ -292,11 +290,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -309,11 +309,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -326,11 +328,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -343,11 +347,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -360,11 +366,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -377,11 +385,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -394,11 +404,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -411,11 +423,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -428,11 +442,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -445,11 +461,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -462,11 +480,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -479,11 +499,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -496,11 +518,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -513,11 +537,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -530,11 +556,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -547,11 +575,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -564,11 +594,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -581,11 +613,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -598,11 +632,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -615,11 +651,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -632,11 +670,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -649,11 +689,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -666,11 +708,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -683,11 +727,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -700,11 +746,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -717,11 +765,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -734,11 +784,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -751,11 +803,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -768,11 +822,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -785,11 +841,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -802,11 +860,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -819,11 +879,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -836,11 +898,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -853,11 +917,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -870,11 +936,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -887,11 +955,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -904,11 +974,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -921,11 +993,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -938,11 +1012,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -955,11 +1031,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -972,11 +1050,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -989,11 +1069,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1006,11 +1088,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1023,11 +1107,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1040,11 +1126,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1057,11 +1145,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1074,11 +1164,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1091,11 +1183,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1108,11 +1202,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1125,11 +1221,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1142,11 +1240,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1159,11 +1259,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1176,11 +1278,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1193,11 +1297,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1210,11 +1316,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1227,11 +1335,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1244,11 +1354,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1261,11 +1373,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1278,11 +1392,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1295,11 +1411,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1312,11 +1430,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1329,11 +1449,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1346,11 +1468,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1363,11 +1487,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1380,11 +1506,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1397,11 +1525,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1414,11 +1544,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1431,11 +1563,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1448,11 +1582,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1465,11 +1601,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1482,11 +1620,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1499,11 +1639,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1516,11 +1658,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1533,11 +1677,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1550,11 +1696,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1567,11 +1715,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1584,11 +1734,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1601,11 +1753,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1618,11 +1772,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1635,11 +1791,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1652,11 +1810,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1669,11 +1829,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1686,11 +1848,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1703,11 +1867,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1720,11 +1886,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1737,11 +1905,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1754,11 +1924,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1771,11 +1943,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1788,11 +1962,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1805,11 +1981,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1822,11 +2000,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1839,11 +2019,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1856,11 +2038,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1873,11 +2057,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1890,11 +2076,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1907,11 +2095,13 @@
       <value>LED</value>
       <footprint>LED_SMD:LED_0603_1608Metric</footprint>
       <fields>
+        <field name="DigiKey">754-1434-1-ND</field>
         <field name="JLC">C5875724</field>
+        <field name="Mouser">604-APT1608QBC/D</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="DigiKey" value=""/>
-      <property name="Mouser" value=""/>
+      <property name="DigiKey" value="754-1434-1-ND"/>
+      <property name="Mouser" value="604-APT1608QBC/D"/>
       <property name="JLC" value="C5875724"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1921,16 +2111,14 @@
       <tstamps>879b7f44-6d27-4310-a160-03a1438e4430</tstamps>
     </comp>
     <comp ref="R6">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1940,16 +2128,14 @@
       <tstamps>c10b1fcd-e862-4eb4-868f-a12779387893</tstamps>
     </comp>
     <comp ref="R7">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1959,16 +2145,14 @@
       <tstamps>98f889f2-2f05-4150-ba40-5e0c38c58f6b</tstamps>
     </comp>
     <comp ref="R8">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1978,16 +2162,14 @@
       <tstamps>b760dfa6-36b1-4366-bdb3-03555c881a3b</tstamps>
     </comp>
     <comp ref="R9">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -1997,16 +2179,14 @@
       <tstamps>3332c457-ab8e-423c-a3d4-140e1c41d19b</tstamps>
     </comp>
     <comp ref="R10">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2016,16 +2196,14 @@
       <tstamps>a4f1fd8c-b39e-484c-8e92-0f3934c037d1</tstamps>
     </comp>
     <comp ref="R11">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2035,16 +2213,14 @@
       <tstamps>b34d8d93-90d7-4e82-a2f1-e69877a73afa</tstamps>
     </comp>
     <comp ref="R12">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2054,16 +2230,14 @@
       <tstamps>e1872ae7-22d5-4dbd-9f3d-2f7ab5c14441</tstamps>
     </comp>
     <comp ref="R13">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2073,16 +2247,14 @@
       <tstamps>8f05c38b-acdb-4485-8257-62010ad43bf2</tstamps>
     </comp>
     <comp ref="R14">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2092,16 +2264,14 @@
       <tstamps>411c8088-4543-474b-98a6-199750c47857</tstamps>
     </comp>
     <comp ref="R15">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2111,16 +2281,14 @@
       <tstamps>73c562d3-2f9a-46c3-b0ac-d21dea1ae887</tstamps>
     </comp>
     <comp ref="R16">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2130,16 +2298,14 @@
       <tstamps>4ea018c6-cc86-476c-b0bb-83880334e52c</tstamps>
     </comp>
     <comp ref="R17">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2149,16 +2315,14 @@
       <tstamps>da669abe-afeb-4e58-9273-b0c960256b66</tstamps>
     </comp>
     <comp ref="R18">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2168,16 +2332,14 @@
       <tstamps>40d9ce37-a512-4225-a0c1-67c4c81bbd2d</tstamps>
     </comp>
     <comp ref="R19">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2187,16 +2349,14 @@
       <tstamps>7285d47c-2960-4c9e-8a95-6d9434578ea0</tstamps>
     </comp>
     <comp ref="R20">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2206,16 +2366,14 @@
       <tstamps>a5448557-6a0f-4b6a-8956-3f0dc42c592c</tstamps>
     </comp>
     <comp ref="R21">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2225,16 +2383,14 @@
       <tstamps>1d4a5a2a-e416-4962-84e4-a5a32e22023d</tstamps>
     </comp>
     <comp ref="R22">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2244,16 +2400,14 @@
       <tstamps>877b8077-448e-41a5-a791-21d44bd9d42f</tstamps>
     </comp>
     <comp ref="R23">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2263,16 +2417,14 @@
       <tstamps>6a66245d-c920-4a7b-bd7a-c19fbf398fd6</tstamps>
     </comp>
     <comp ref="R24">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2282,16 +2434,14 @@
       <tstamps>a5499433-6338-4e86-a8fa-0a9d17bf25ea</tstamps>
     </comp>
     <comp ref="R25">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2301,16 +2451,14 @@
       <tstamps>753cecdf-1531-43d9-a4bf-90b19eedbea7</tstamps>
     </comp>
     <comp ref="R26">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2320,16 +2468,14 @@
       <tstamps>b856fe8e-ddce-4314-a2e3-a29e3dab31bd</tstamps>
     </comp>
     <comp ref="R27">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2339,16 +2485,14 @@
       <tstamps>e957b95e-0baf-46de-a974-a3662a38d825</tstamps>
     </comp>
     <comp ref="R28">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2358,16 +2502,14 @@
       <tstamps>b09ad459-512a-4c21-b4b2-c84eba1bd77e</tstamps>
     </comp>
     <comp ref="R29">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2377,16 +2519,14 @@
       <tstamps>634182f2-967a-4d5f-b099-a299264e31e9</tstamps>
     </comp>
     <comp ref="R30">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2396,16 +2536,14 @@
       <tstamps>8f261723-4695-448f-aa9b-2877f1672d2d</tstamps>
     </comp>
     <comp ref="R31">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2415,16 +2553,14 @@
       <tstamps>174cbeba-4f4d-4202-9079-eb1839eb6391</tstamps>
     </comp>
     <comp ref="R32">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2434,16 +2570,14 @@
       <tstamps>a2387d4f-96b4-4559-acc8-2b9af0eccf33</tstamps>
     </comp>
     <comp ref="R33">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2453,16 +2587,14 @@
       <tstamps>a71955bc-ff4d-4b4d-87f6-4cf87272baad</tstamps>
     </comp>
     <comp ref="R34">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2472,16 +2604,14 @@
       <tstamps>008653c0-4d94-4720-bf55-1b1bada3bbee</tstamps>
     </comp>
     <comp ref="R35">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2491,16 +2621,14 @@
       <tstamps>6ba16f19-8e4b-4718-af71-b718c2eea2b4</tstamps>
     </comp>
     <comp ref="R36">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2510,16 +2638,14 @@
       <tstamps>330ae35d-07f4-48ca-be6f-540b1619f68b</tstamps>
     </comp>
     <comp ref="R37">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2529,16 +2655,14 @@
       <tstamps>1d03d344-b36b-4108-b6f7-c4c5a9f3a088</tstamps>
     </comp>
     <comp ref="R38">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2548,16 +2672,14 @@
       <tstamps>ecda7227-ee78-4469-90c8-cf05f3861972</tstamps>
     </comp>
     <comp ref="R39">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2567,16 +2689,14 @@
       <tstamps>1136e144-5c62-4fec-a3b6-5c5e2ed7bade</tstamps>
     </comp>
     <comp ref="R40">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2586,16 +2706,14 @@
       <tstamps>2e0599dd-533d-4105-a537-26993b0fa93b</tstamps>
     </comp>
     <comp ref="R41">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2605,16 +2723,14 @@
       <tstamps>dda93ac5-4e23-4554-99ae-9ab37aa3b4d6</tstamps>
     </comp>
     <comp ref="R42">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2624,16 +2740,14 @@
       <tstamps>d27f22c7-4bde-44b9-a52d-841f2b11a538</tstamps>
     </comp>
     <comp ref="R43">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2643,16 +2757,14 @@
       <tstamps>85d0f7b3-fa98-4cb9-a779-cadf34439561</tstamps>
     </comp>
     <comp ref="R44">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2662,16 +2774,14 @@
       <tstamps>817eb2e9-725c-4f5d-bc6e-49acfc401d55</tstamps>
     </comp>
     <comp ref="R45">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2681,16 +2791,14 @@
       <tstamps>c4e8810e-9612-4617-9c95-ad96a5c8cd79</tstamps>
     </comp>
     <comp ref="R46">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2700,16 +2808,14 @@
       <tstamps>0fd9fac1-9bb0-436d-91fd-e8c9eed039cc</tstamps>
     </comp>
     <comp ref="R47">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2719,16 +2825,14 @@
       <tstamps>b31d9b6a-8b52-4cae-ba32-64ba48d1f322</tstamps>
     </comp>
     <comp ref="R48">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2738,16 +2842,14 @@
       <tstamps>49258458-9721-4098-955e-993b9a6eab89</tstamps>
     </comp>
     <comp ref="R49">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2757,16 +2859,14 @@
       <tstamps>4eeee098-856f-4644-9cdc-59abded1f4a7</tstamps>
     </comp>
     <comp ref="R50">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2776,16 +2876,14 @@
       <tstamps>15fcc38d-7f04-4250-9161-6114d53b2de6</tstamps>
     </comp>
     <comp ref="R51">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2795,16 +2893,14 @@
       <tstamps>2c02d22f-80bc-4aa3-8cfa-d30d8140ccd2</tstamps>
     </comp>
     <comp ref="R52">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2814,16 +2910,14 @@
       <tstamps>4e7222a7-0ded-42db-af7c-f40b5f00f1a3</tstamps>
     </comp>
     <comp ref="R53">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2833,16 +2927,14 @@
       <tstamps>ec79f921-ed6a-4cfa-84b4-975186ec2611</tstamps>
     </comp>
     <comp ref="R54">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2852,16 +2944,14 @@
       <tstamps>cd788469-6c22-4365-815b-90f76c4c57eb</tstamps>
     </comp>
     <comp ref="R55">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2871,16 +2961,14 @@
       <tstamps>64381020-c3f9-431b-9fd2-11fefbd21e66</tstamps>
     </comp>
     <comp ref="R56">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2890,16 +2978,14 @@
       <tstamps>47ec37bf-a626-4f97-b063-97abe1decff0</tstamps>
     </comp>
     <comp ref="R57">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2909,16 +2995,14 @@
       <tstamps>5c5f9e9d-322e-42c9-9d32-d1cf0f7930c4</tstamps>
     </comp>
     <comp ref="R58">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2928,16 +3012,14 @@
       <tstamps>138b20bc-0e2b-47b8-9b2c-b1488985737e</tstamps>
     </comp>
     <comp ref="R59">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2947,16 +3029,14 @@
       <tstamps>8c82f6b9-11fd-4671-a14c-b0dcac93694b</tstamps>
     </comp>
     <comp ref="R60">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2966,16 +3046,14 @@
       <tstamps>46441af9-4780-48ab-9c9d-c09379837fed</tstamps>
     </comp>
     <comp ref="R61">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -2985,16 +3063,14 @@
       <tstamps>6cb74db9-3ede-4a59-a365-6d7928d14da9</tstamps>
     </comp>
     <comp ref="R62">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3004,16 +3080,14 @@
       <tstamps>ebb0d4bf-46bc-45b6-940a-2b909cdc5b4e</tstamps>
     </comp>
     <comp ref="R63">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3023,16 +3097,14 @@
       <tstamps>a6e328ab-eb67-4742-8108-7753ac209f6e</tstamps>
     </comp>
     <comp ref="R64">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3042,16 +3114,14 @@
       <tstamps>2eaca872-bda9-4535-a964-b15499a5ac9b</tstamps>
     </comp>
     <comp ref="R65">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3061,16 +3131,14 @@
       <tstamps>cda7f02d-adeb-4558-99c2-b67f6cc618ba</tstamps>
     </comp>
     <comp ref="R66">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3080,16 +3148,14 @@
       <tstamps>f2ab499a-fe99-414b-a559-4b5dd6ceb9a9</tstamps>
     </comp>
     <comp ref="R67">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3099,16 +3165,14 @@
       <tstamps>2ae9f912-2304-4c88-8550-4cb41d10f5c5</tstamps>
     </comp>
     <comp ref="R68">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3118,16 +3182,14 @@
       <tstamps>a7c12823-1bb6-43ee-a154-a18dce2ccd9e</tstamps>
     </comp>
     <comp ref="R69">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3137,16 +3199,14 @@
       <tstamps>a7c8da50-0bf1-44f3-a464-b8a8e0de8889</tstamps>
     </comp>
     <comp ref="R70">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3156,16 +3216,14 @@
       <tstamps>fb206194-57cf-4eed-8fc7-d3d0ca50d08f</tstamps>
     </comp>
     <comp ref="R71">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3175,16 +3233,14 @@
       <tstamps>725a5c34-a4e9-4885-b06c-7ea6cd8696e3</tstamps>
     </comp>
     <comp ref="R72">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3194,16 +3250,14 @@
       <tstamps>7501b4fe-8636-4e9f-a219-a7af7ab20b14</tstamps>
     </comp>
     <comp ref="R73">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3213,16 +3267,14 @@
       <tstamps>10fcd520-238a-45e3-98fb-09676db2697c</tstamps>
     </comp>
     <comp ref="R74">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3232,16 +3284,14 @@
       <tstamps>a71ec47b-a1db-40cf-bf3c-fe36ea9fbe94</tstamps>
     </comp>
     <comp ref="R75">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3251,16 +3301,14 @@
       <tstamps>23e76efb-0419-44ed-b63a-f6fca532ad06</tstamps>
     </comp>
     <comp ref="R76">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3270,16 +3318,14 @@
       <tstamps>0ba84f7d-b9a9-46e3-9c9c-0a97db282da2</tstamps>
     </comp>
     <comp ref="R77">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3289,16 +3335,14 @@
       <tstamps>feab8086-b1a6-4365-b232-71c11ff84db8</tstamps>
     </comp>
     <comp ref="R78">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3308,16 +3352,14 @@
       <tstamps>dbafba49-717d-4276-98d4-b475c2401df2</tstamps>
     </comp>
     <comp ref="R79">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3327,16 +3369,14 @@
       <tstamps>9cd7d935-0bb7-4955-9953-e59f86d56341</tstamps>
     </comp>
     <comp ref="R80">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3346,16 +3386,14 @@
       <tstamps>0d1ce5d8-35a4-42ea-9555-ebf81295b398</tstamps>
     </comp>
     <comp ref="R81">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3365,16 +3403,14 @@
       <tstamps>d47e4850-34ac-4ff6-b7e4-d6d92677b36c</tstamps>
     </comp>
     <comp ref="R82">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3384,16 +3420,14 @@
       <tstamps>06cdc606-a8d6-4706-b2ce-a1c71272fa73</tstamps>
     </comp>
     <comp ref="R83">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3403,16 +3437,14 @@
       <tstamps>03c6d9a5-5f34-4262-9467-9b9aefff265b</tstamps>
     </comp>
     <comp ref="R84">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3422,16 +3454,14 @@
       <tstamps>9c0f6d08-bcf8-4868-8102-b66c7bd31f46</tstamps>
     </comp>
     <comp ref="R85">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3441,16 +3471,14 @@
       <tstamps>c8c17622-884f-42f7-bbe9-20c11f0e1c24</tstamps>
     </comp>
     <comp ref="R86">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3460,16 +3488,14 @@
       <tstamps>accaa0ab-910e-4652-ac85-2d3d7b36957c</tstamps>
     </comp>
     <comp ref="R87">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3479,16 +3505,14 @@
       <tstamps>70aee6db-04c6-4834-bfa9-a220fbd59a50</tstamps>
     </comp>
     <comp ref="R88">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3498,16 +3522,14 @@
       <tstamps>c6c4df01-2939-435c-a569-904e9d47d885</tstamps>
     </comp>
     <comp ref="R89">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3517,16 +3539,14 @@
       <tstamps>dd0d6763-fa0b-4b72-b627-814f25b2262b</tstamps>
     </comp>
     <comp ref="R90">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3536,16 +3556,14 @@
       <tstamps>1bb8028d-0f14-4f04-827b-726f967e1f27</tstamps>
     </comp>
     <comp ref="R91">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3555,16 +3573,14 @@
       <tstamps>110a428a-fdcf-4221-b44f-1fbf54e404d5</tstamps>
     </comp>
     <comp ref="R92">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3574,16 +3590,14 @@
       <tstamps>d5b54433-316c-4806-a002-4d1da12b289f</tstamps>
     </comp>
     <comp ref="R93">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3593,16 +3607,14 @@
       <tstamps>cb8adcff-56aa-49d9-8826-98427a0179ec</tstamps>
     </comp>
     <comp ref="R94">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3612,16 +3624,14 @@
       <tstamps>895a36d4-2b6f-4053-b927-734689281a45</tstamps>
     </comp>
     <comp ref="R95">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3631,16 +3641,14 @@
       <tstamps>3f12c43b-15b8-4884-b9a2-c1535ef1ef7f</tstamps>
     </comp>
     <comp ref="R96">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3650,16 +3658,14 @@
       <tstamps>6a34cb3b-6470-4bf8-8a34-d1b311003ba1</tstamps>
     </comp>
     <comp ref="R97">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3669,16 +3675,14 @@
       <tstamps>eb6cc111-d520-4c3f-8e4f-45756a3c1f23</tstamps>
     </comp>
     <comp ref="R98">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3688,16 +3692,14 @@
       <tstamps>d4d2f4b8-0ecb-45f9-8f4a-cdb431545170</tstamps>
     </comp>
     <comp ref="R99">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3707,16 +3709,14 @@
       <tstamps>f78fdf71-ad44-4b1b-9de7-28e24e2bd3fa</tstamps>
     </comp>
     <comp ref="R100">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
@@ -3726,16 +3726,14 @@
       <tstamps>2c49ece8-2838-489f-b567-2f980204c20d</tstamps>
     </comp>
     <comp ref="R101">
-      <value>91</value>
+      <value>100</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-68ARCT-ND</field>
         <field name="JLC">C22775</field>
-        <field name="Mouser">603-RC0805JR-0768RL</field>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="DigiKey" value="311-68ARCT-ND"/>
-      <property name="Mouser" value="603-RC0805JR-0768RL"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C22775"/>
       <property name="Sheetname" value="LED_ARRAY"/>
       <property name="Sheetfile" value="led_array.kicad_sch"/>
