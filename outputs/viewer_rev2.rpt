@@ -1,4 +1,4 @@
-## Footprint report - date Sat Jun  8 13:22:00 2024
+## Footprint report - date Sat Jun  8 14:34:04 2024
 ## Created by KiCad version 7.0.10
 ## Unit = mm, Angle = deg.
 
@@ -107,7 +107,7 @@ $EndMODULE  D2
 $MODULE D3
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 49.240000  orientation 0.00
+position 118.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -126,7 +126,7 @@ $EndMODULE  D3
 $MODULE D4
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 49.240000  orientation 0.00
+position 127.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -145,7 +145,7 @@ $EndMODULE  D4
 $MODULE D5
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 49.240000  orientation 0.00
+position 136.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -164,7 +164,7 @@ $EndMODULE  D5
 $MODULE D6
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 49.240000  orientation 0.00
+position 145.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -183,7 +183,7 @@ $EndMODULE  D6
 $MODULE D7
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 49.240000  orientation 0.00
+position 154.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -202,7 +202,7 @@ $EndMODULE  D7
 $MODULE D8
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 49.240000  orientation 0.00
+position 163.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -221,7 +221,7 @@ $EndMODULE  D8
 $MODULE D9
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 49.240000  orientation 0.00
+position 172.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -240,7 +240,7 @@ $EndMODULE  D9
 $MODULE D10
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 49.240000  orientation 0.00
+position 181.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -259,7 +259,7 @@ $EndMODULE  D10
 $MODULE D11
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 49.240000  orientation 0.00
+position 190.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -278,7 +278,7 @@ $EndMODULE  D11
 $MODULE D12
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 49.240000  orientation 0.00
+position 199.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -297,7 +297,7 @@ $EndMODULE  D12
 $MODULE D13
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 49.240000  orientation 0.00
+position 208.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -316,7 +316,7 @@ $EndMODULE  D13
 $MODULE D14
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 49.240000  orientation 0.00
+position 217.000000 48.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -335,7 +335,7 @@ $EndMODULE  D14
 $MODULE D15
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 58.240000  orientation 0.00
+position 118.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -354,7 +354,7 @@ $EndMODULE  D15
 $MODULE D16
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 58.240000  orientation 0.00
+position 127.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -373,7 +373,7 @@ $EndMODULE  D16
 $MODULE D17
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 58.240000  orientation 0.00
+position 136.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -392,7 +392,7 @@ $EndMODULE  D17
 $MODULE D18
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 58.240000  orientation 0.00
+position 145.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -411,7 +411,7 @@ $EndMODULE  D18
 $MODULE D19
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 58.240000  orientation 0.00
+position 154.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -430,7 +430,7 @@ $EndMODULE  D19
 $MODULE D20
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 58.240000  orientation 0.00
+position 163.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -449,7 +449,7 @@ $EndMODULE  D20
 $MODULE D21
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 58.240000  orientation 0.00
+position 172.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -468,7 +468,7 @@ $EndMODULE  D21
 $MODULE D22
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 58.240000  orientation 0.00
+position 181.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -487,7 +487,7 @@ $EndMODULE  D22
 $MODULE D23
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 58.240000  orientation 0.00
+position 190.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -506,7 +506,7 @@ $EndMODULE  D23
 $MODULE D24
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 58.240000  orientation 0.00
+position 199.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -525,7 +525,7 @@ $EndMODULE  D24
 $MODULE D25
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 58.240000  orientation 0.00
+position 208.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -544,7 +544,7 @@ $EndMODULE  D25
 $MODULE D26
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 58.240000  orientation 0.00
+position 217.000000 57.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -563,7 +563,7 @@ $EndMODULE  D26
 $MODULE D27
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 67.240000  orientation 0.00
+position 118.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -582,7 +582,7 @@ $EndMODULE  D27
 $MODULE D28
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 67.240000  orientation 0.00
+position 127.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -601,7 +601,7 @@ $EndMODULE  D28
 $MODULE D29
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 67.240000  orientation 0.00
+position 136.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -620,7 +620,7 @@ $EndMODULE  D29
 $MODULE D30
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 67.240000  orientation 0.00
+position 145.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -639,7 +639,7 @@ $EndMODULE  D30
 $MODULE D31
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 67.240000  orientation 0.00
+position 154.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -658,7 +658,7 @@ $EndMODULE  D31
 $MODULE D32
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 67.240000  orientation 0.00
+position 163.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -677,7 +677,7 @@ $EndMODULE  D32
 $MODULE D33
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 67.240000  orientation 0.00
+position 172.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -696,7 +696,7 @@ $EndMODULE  D33
 $MODULE D34
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 67.240000  orientation 0.00
+position 181.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -715,7 +715,7 @@ $EndMODULE  D34
 $MODULE D35
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 67.240000  orientation 0.00
+position 190.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -734,7 +734,7 @@ $EndMODULE  D35
 $MODULE D36
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 67.240000  orientation 0.00
+position 199.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -753,7 +753,7 @@ $EndMODULE  D36
 $MODULE D37
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 67.240000  orientation 0.00
+position 208.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -772,7 +772,7 @@ $EndMODULE  D37
 $MODULE D38
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 67.240000  orientation 0.00
+position 217.000000 66.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -791,7 +791,7 @@ $EndMODULE  D38
 $MODULE D39
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 76.240000  orientation 0.00
+position 118.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -810,7 +810,7 @@ $EndMODULE  D39
 $MODULE D40
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 76.240000  orientation 0.00
+position 127.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -829,7 +829,7 @@ $EndMODULE  D40
 $MODULE D41
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 76.240000  orientation 0.00
+position 136.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -848,7 +848,7 @@ $EndMODULE  D41
 $MODULE D42
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 76.240000  orientation 0.00
+position 145.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -867,7 +867,7 @@ $EndMODULE  D42
 $MODULE D43
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 76.240000  orientation 0.00
+position 154.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -886,7 +886,7 @@ $EndMODULE  D43
 $MODULE D44
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 76.240000  orientation 0.00
+position 163.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -905,7 +905,7 @@ $EndMODULE  D44
 $MODULE D45
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 76.240000  orientation 0.00
+position 172.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -924,7 +924,7 @@ $EndMODULE  D45
 $MODULE D46
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 76.240000  orientation 0.00
+position 181.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -943,7 +943,7 @@ $EndMODULE  D46
 $MODULE D47
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 76.240000  orientation 0.00
+position 190.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -962,7 +962,7 @@ $EndMODULE  D47
 $MODULE D48
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 76.240000  orientation 0.00
+position 199.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -981,7 +981,7 @@ $EndMODULE  D48
 $MODULE D49
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 76.240000  orientation 0.00
+position 208.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1000,7 +1000,7 @@ $EndMODULE  D49
 $MODULE D50
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 76.240000  orientation 0.00
+position 217.000000 75.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1019,7 +1019,7 @@ $EndMODULE  D50
 $MODULE D51
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 85.240000  orientation 0.00
+position 118.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1038,7 +1038,7 @@ $EndMODULE  D51
 $MODULE D52
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 85.240000  orientation 0.00
+position 127.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1057,7 +1057,7 @@ $EndMODULE  D52
 $MODULE D53
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 85.240000  orientation 0.00
+position 136.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1076,7 +1076,7 @@ $EndMODULE  D53
 $MODULE D54
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 85.240000  orientation 0.00
+position 145.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1095,7 +1095,7 @@ $EndMODULE  D54
 $MODULE D55
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 85.240000  orientation 0.00
+position 154.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1114,7 +1114,7 @@ $EndMODULE  D55
 $MODULE D56
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 85.240000  orientation 0.00
+position 163.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1133,7 +1133,7 @@ $EndMODULE  D56
 $MODULE D57
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 85.240000  orientation 0.00
+position 172.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1152,7 +1152,7 @@ $EndMODULE  D57
 $MODULE D58
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 85.240000  orientation 0.00
+position 181.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1171,7 +1171,7 @@ $EndMODULE  D58
 $MODULE D59
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 85.240000  orientation 0.00
+position 190.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1190,7 +1190,7 @@ $EndMODULE  D59
 $MODULE D60
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 85.240000  orientation 0.00
+position 199.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1209,7 +1209,7 @@ $EndMODULE  D60
 $MODULE D61
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 85.240000  orientation 0.00
+position 208.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1228,7 +1228,7 @@ $EndMODULE  D61
 $MODULE D62
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 85.240000  orientation 0.00
+position 217.000000 84.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1247,7 +1247,7 @@ $EndMODULE  D62
 $MODULE D63
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 94.240000  orientation 0.00
+position 118.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1266,7 +1266,7 @@ $EndMODULE  D63
 $MODULE D64
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 94.240000  orientation 0.00
+position 127.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1285,7 +1285,7 @@ $EndMODULE  D64
 $MODULE D65
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 94.240000  orientation 0.00
+position 136.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1304,7 +1304,7 @@ $EndMODULE  D65
 $MODULE D66
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 94.240000  orientation 0.00
+position 145.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1323,7 +1323,7 @@ $EndMODULE  D66
 $MODULE D67
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 94.240000  orientation 0.00
+position 154.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1342,7 +1342,7 @@ $EndMODULE  D67
 $MODULE D68
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 94.240000  orientation 0.00
+position 163.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1361,7 +1361,7 @@ $EndMODULE  D68
 $MODULE D69
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 94.240000  orientation 0.00
+position 172.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1380,7 +1380,7 @@ $EndMODULE  D69
 $MODULE D70
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 94.240000  orientation 0.00
+position 181.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1399,7 +1399,7 @@ $EndMODULE  D70
 $MODULE D71
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 94.240000  orientation 0.00
+position 190.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1418,7 +1418,7 @@ $EndMODULE  D71
 $MODULE D72
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 94.240000  orientation 0.00
+position 199.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1437,7 +1437,7 @@ $EndMODULE  D72
 $MODULE D73
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 94.240000  orientation 0.00
+position 208.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1456,7 +1456,7 @@ $EndMODULE  D73
 $MODULE D74
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 94.240000  orientation 0.00
+position 217.000000 93.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1475,7 +1475,7 @@ $EndMODULE  D74
 $MODULE D75
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 103.240000  orientation 0.00
+position 118.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1494,7 +1494,7 @@ $EndMODULE  D75
 $MODULE D76
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 103.240000  orientation 0.00
+position 127.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1513,7 +1513,7 @@ $EndMODULE  D76
 $MODULE D77
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 103.240000  orientation 0.00
+position 136.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1532,7 +1532,7 @@ $EndMODULE  D77
 $MODULE D78
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 103.240000  orientation 0.00
+position 145.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1551,7 +1551,7 @@ $EndMODULE  D78
 $MODULE D79
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 103.240000  orientation 0.00
+position 154.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1570,7 +1570,7 @@ $EndMODULE  D79
 $MODULE D80
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 103.240000  orientation 0.00
+position 163.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1589,7 +1589,7 @@ $EndMODULE  D80
 $MODULE D81
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 103.240000  orientation 0.00
+position 172.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1608,7 +1608,7 @@ $EndMODULE  D81
 $MODULE D82
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 103.240000  orientation 0.00
+position 181.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1627,7 +1627,7 @@ $EndMODULE  D82
 $MODULE D83
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 103.240000  orientation 0.00
+position 190.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1646,7 +1646,7 @@ $EndMODULE  D83
 $MODULE D84
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 103.240000  orientation 0.00
+position 199.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1665,7 +1665,7 @@ $EndMODULE  D84
 $MODULE D85
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 103.240000  orientation 0.00
+position 208.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1684,7 +1684,7 @@ $EndMODULE  D85
 $MODULE D86
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 103.240000  orientation 0.00
+position 217.000000 102.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1703,7 +1703,7 @@ $EndMODULE  D86
 $MODULE D87
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 118.000000 112.240000  orientation 0.00
+position 118.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1722,7 +1722,7 @@ $EndMODULE  D87
 $MODULE D88
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 127.000000 112.240000  orientation 0.00
+position 127.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1741,7 +1741,7 @@ $EndMODULE  D88
 $MODULE D89
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 136.000000 112.240000  orientation 0.00
+position 136.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1760,7 +1760,7 @@ $EndMODULE  D89
 $MODULE D90
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 145.000000 112.240000  orientation 0.00
+position 145.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1779,7 +1779,7 @@ $EndMODULE  D90
 $MODULE D91
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 154.000000 112.240000  orientation 0.00
+position 154.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1798,7 +1798,7 @@ $EndMODULE  D91
 $MODULE D92
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 163.000000 112.240000  orientation 0.00
+position 163.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1817,7 +1817,7 @@ $EndMODULE  D92
 $MODULE D93
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 172.000000 112.240000  orientation 0.00
+position 172.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1836,7 +1836,7 @@ $EndMODULE  D93
 $MODULE D94
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 181.000000 112.240000  orientation 0.00
+position 181.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1855,7 +1855,7 @@ $EndMODULE  D94
 $MODULE D95
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 190.000000 112.240000  orientation 0.00
+position 190.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1874,7 +1874,7 @@ $EndMODULE  D95
 $MODULE D96
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 199.000000 112.240000  orientation 0.00
+position 199.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1893,7 +1893,7 @@ $EndMODULE  D96
 $MODULE D97
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 208.000000 112.240000  orientation 0.00
+position 208.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1912,7 +1912,7 @@ $EndMODULE  D97
 $MODULE D98
 footprint LED_SMD:LED_0603_1608Metric
 attribut smd
-position 217.000000 112.240000  orientation 0.00
+position 217.000000 111.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -1983,7 +1983,7 @@ $EndMODULE  H4
 $MODULE J2
 footprint Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal
 attribut smd
-position 126.750000 133.350000  orientation 0.00
+position 123.500000 133.350000  orientation 0.00
 layer front
 $PAD ""
 Shape Circle Layer both
@@ -2153,7 +2153,7 @@ $EndMODULE  Q1
 $MODULE R1
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.500000 127.500000  orientation 0.00
+position 123.250000 127.500000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2172,7 +2172,7 @@ $EndMODULE  R1
 $MODULE R2
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 129.550000 126.700000  orientation 0.00
+position 126.300000 126.700000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2248,7 +2248,7 @@ $EndMODULE  R5
 $MODULE R6
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 50.840000  orientation 0.00
+position 117.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2267,7 +2267,7 @@ $EndMODULE  R6
 $MODULE R7
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 50.840000  orientation 0.00
+position 126.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2286,7 +2286,7 @@ $EndMODULE  R7
 $MODULE R8
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 50.840000  orientation 0.00
+position 135.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2305,7 +2305,7 @@ $EndMODULE  R8
 $MODULE R9
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 50.840000  orientation 0.00
+position 144.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2324,7 +2324,7 @@ $EndMODULE  R9
 $MODULE R10
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 50.840000  orientation 0.00
+position 153.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2343,7 +2343,7 @@ $EndMODULE  R10
 $MODULE R11
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 50.840000  orientation 0.00
+position 162.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2362,7 +2362,7 @@ $EndMODULE  R11
 $MODULE R12
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 50.840000  orientation 0.00
+position 171.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2381,7 +2381,7 @@ $EndMODULE  R12
 $MODULE R13
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 50.840000  orientation 0.00
+position 180.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2400,7 +2400,7 @@ $EndMODULE  R13
 $MODULE R14
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 50.840000  orientation 0.00
+position 189.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2419,7 +2419,7 @@ $EndMODULE  R14
 $MODULE R15
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 50.840000  orientation 0.00
+position 198.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2438,7 +2438,7 @@ $EndMODULE  R15
 $MODULE R16
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 50.840000  orientation 0.00
+position 207.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2457,7 +2457,7 @@ $EndMODULE  R16
 $MODULE R17
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 50.840000  orientation 0.00
+position 216.975000 50.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2476,7 +2476,7 @@ $EndMODULE  R17
 $MODULE R18
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 59.840000  orientation 0.00
+position 117.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2495,7 +2495,7 @@ $EndMODULE  R18
 $MODULE R19
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 59.840000  orientation 0.00
+position 126.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2514,7 +2514,7 @@ $EndMODULE  R19
 $MODULE R20
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 59.840000  orientation 0.00
+position 135.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2533,7 +2533,7 @@ $EndMODULE  R20
 $MODULE R21
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 59.840000  orientation 0.00
+position 144.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2552,7 +2552,7 @@ $EndMODULE  R21
 $MODULE R22
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 59.840000  orientation 0.00
+position 153.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2571,7 +2571,7 @@ $EndMODULE  R22
 $MODULE R23
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 59.840000  orientation 0.00
+position 162.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2590,7 +2590,7 @@ $EndMODULE  R23
 $MODULE R24
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 59.840000  orientation 0.00
+position 171.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2609,7 +2609,7 @@ $EndMODULE  R24
 $MODULE R25
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 59.840000  orientation 0.00
+position 180.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2628,7 +2628,7 @@ $EndMODULE  R25
 $MODULE R26
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 59.840000  orientation 0.00
+position 189.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2647,7 +2647,7 @@ $EndMODULE  R26
 $MODULE R27
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 59.840000  orientation 0.00
+position 198.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2666,7 +2666,7 @@ $EndMODULE  R27
 $MODULE R28
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 59.840000  orientation 0.00
+position 207.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2685,7 +2685,7 @@ $EndMODULE  R28
 $MODULE R29
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 59.840000  orientation 0.00
+position 216.975000 59.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2704,7 +2704,7 @@ $EndMODULE  R29
 $MODULE R30
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 68.840000  orientation 0.00
+position 117.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2723,7 +2723,7 @@ $EndMODULE  R30
 $MODULE R31
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 68.840000  orientation 0.00
+position 126.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2742,7 +2742,7 @@ $EndMODULE  R31
 $MODULE R32
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 68.840000  orientation 0.00
+position 135.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2761,7 +2761,7 @@ $EndMODULE  R32
 $MODULE R33
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 68.840000  orientation 0.00
+position 144.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2780,7 +2780,7 @@ $EndMODULE  R33
 $MODULE R34
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 68.840000  orientation 0.00
+position 153.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2799,7 +2799,7 @@ $EndMODULE  R34
 $MODULE R35
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 68.840000  orientation 0.00
+position 162.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2818,7 +2818,7 @@ $EndMODULE  R35
 $MODULE R36
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 68.840000  orientation 0.00
+position 171.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2837,7 +2837,7 @@ $EndMODULE  R36
 $MODULE R37
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 68.840000  orientation 0.00
+position 180.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2856,7 +2856,7 @@ $EndMODULE  R37
 $MODULE R38
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 68.840000  orientation 0.00
+position 189.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2875,7 +2875,7 @@ $EndMODULE  R38
 $MODULE R39
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 68.840000  orientation 0.00
+position 198.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2894,7 +2894,7 @@ $EndMODULE  R39
 $MODULE R40
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 68.840000  orientation 0.00
+position 207.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2913,7 +2913,7 @@ $EndMODULE  R40
 $MODULE R41
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 68.840000  orientation 0.00
+position 216.975000 68.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2932,7 +2932,7 @@ $EndMODULE  R41
 $MODULE R42
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 77.840000  orientation 0.00
+position 117.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2951,7 +2951,7 @@ $EndMODULE  R42
 $MODULE R43
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 77.840000  orientation 0.00
+position 126.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2970,7 +2970,7 @@ $EndMODULE  R43
 $MODULE R44
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 77.840000  orientation 0.00
+position 135.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -2989,7 +2989,7 @@ $EndMODULE  R44
 $MODULE R45
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 77.840000  orientation 0.00
+position 144.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3008,7 +3008,7 @@ $EndMODULE  R45
 $MODULE R46
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 77.840000  orientation 0.00
+position 153.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3027,7 +3027,7 @@ $EndMODULE  R46
 $MODULE R47
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 77.840000  orientation 0.00
+position 162.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3046,7 +3046,7 @@ $EndMODULE  R47
 $MODULE R48
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 77.840000  orientation 0.00
+position 171.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3065,7 +3065,7 @@ $EndMODULE  R48
 $MODULE R49
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 77.840000  orientation 0.00
+position 180.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3084,7 +3084,7 @@ $EndMODULE  R49
 $MODULE R50
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 77.840000  orientation 0.00
+position 189.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3103,7 +3103,7 @@ $EndMODULE  R50
 $MODULE R51
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 77.840000  orientation 0.00
+position 198.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3122,7 +3122,7 @@ $EndMODULE  R51
 $MODULE R52
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 77.840000  orientation 0.00
+position 207.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3141,7 +3141,7 @@ $EndMODULE  R52
 $MODULE R53
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 77.840000  orientation 0.00
+position 216.975000 77.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3160,7 +3160,7 @@ $EndMODULE  R53
 $MODULE R54
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 86.840000  orientation 0.00
+position 117.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3179,7 +3179,7 @@ $EndMODULE  R54
 $MODULE R55
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 86.840000  orientation 0.00
+position 126.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3198,7 +3198,7 @@ $EndMODULE  R55
 $MODULE R56
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 86.840000  orientation 0.00
+position 135.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3217,7 +3217,7 @@ $EndMODULE  R56
 $MODULE R57
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 86.840000  orientation 0.00
+position 144.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3236,7 +3236,7 @@ $EndMODULE  R57
 $MODULE R58
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 86.840000  orientation 0.00
+position 153.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3255,7 +3255,7 @@ $EndMODULE  R58
 $MODULE R59
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 86.840000  orientation 0.00
+position 162.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3274,7 +3274,7 @@ $EndMODULE  R59
 $MODULE R60
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 86.840000  orientation 0.00
+position 171.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3293,7 +3293,7 @@ $EndMODULE  R60
 $MODULE R61
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 86.840000  orientation 0.00
+position 180.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3312,7 +3312,7 @@ $EndMODULE  R61
 $MODULE R62
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 86.840000  orientation 0.00
+position 189.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3331,7 +3331,7 @@ $EndMODULE  R62
 $MODULE R63
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 86.840000  orientation 0.00
+position 198.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3350,7 +3350,7 @@ $EndMODULE  R63
 $MODULE R64
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 86.840000  orientation 0.00
+position 207.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3369,7 +3369,7 @@ $EndMODULE  R64
 $MODULE R65
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 86.840000  orientation 0.00
+position 216.975000 86.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3388,7 +3388,7 @@ $EndMODULE  R65
 $MODULE R66
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 95.840000  orientation 0.00
+position 117.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3407,7 +3407,7 @@ $EndMODULE  R66
 $MODULE R67
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 95.840000  orientation 0.00
+position 126.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3426,7 +3426,7 @@ $EndMODULE  R67
 $MODULE R68
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 95.840000  orientation 0.00
+position 135.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3445,7 +3445,7 @@ $EndMODULE  R68
 $MODULE R69
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 95.840000  orientation 0.00
+position 144.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3464,7 +3464,7 @@ $EndMODULE  R69
 $MODULE R70
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 95.840000  orientation 0.00
+position 153.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3483,7 +3483,7 @@ $EndMODULE  R70
 $MODULE R71
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 95.840000  orientation 0.00
+position 162.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3502,7 +3502,7 @@ $EndMODULE  R71
 $MODULE R72
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 95.840000  orientation 0.00
+position 171.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3521,7 +3521,7 @@ $EndMODULE  R72
 $MODULE R73
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 95.840000  orientation 0.00
+position 180.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3540,7 +3540,7 @@ $EndMODULE  R73
 $MODULE R74
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 95.840000  orientation 0.00
+position 189.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3559,7 +3559,7 @@ $EndMODULE  R74
 $MODULE R75
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 95.840000  orientation 0.00
+position 198.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3578,7 +3578,7 @@ $EndMODULE  R75
 $MODULE R76
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 95.840000  orientation 0.00
+position 207.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3597,7 +3597,7 @@ $EndMODULE  R76
 $MODULE R77
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 95.840000  orientation 0.00
+position 216.975000 95.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3616,7 +3616,7 @@ $EndMODULE  R77
 $MODULE R78
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 104.840000  orientation 0.00
+position 117.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3635,7 +3635,7 @@ $EndMODULE  R78
 $MODULE R79
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 104.840000  orientation 0.00
+position 126.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3654,7 +3654,7 @@ $EndMODULE  R79
 $MODULE R80
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 104.840000  orientation 0.00
+position 135.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3673,7 +3673,7 @@ $EndMODULE  R80
 $MODULE R81
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 104.840000  orientation 0.00
+position 144.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3692,7 +3692,7 @@ $EndMODULE  R81
 $MODULE R82
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 104.840000  orientation 0.00
+position 153.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3711,7 +3711,7 @@ $EndMODULE  R82
 $MODULE R83
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 104.840000  orientation 0.00
+position 162.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3730,7 +3730,7 @@ $EndMODULE  R83
 $MODULE R84
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 104.840000  orientation 0.00
+position 171.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3749,7 +3749,7 @@ $EndMODULE  R84
 $MODULE R85
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 104.840000  orientation 0.00
+position 180.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3768,7 +3768,7 @@ $EndMODULE  R85
 $MODULE R86
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 104.840000  orientation 0.00
+position 189.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3787,7 +3787,7 @@ $EndMODULE  R86
 $MODULE R87
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 104.840000  orientation 0.00
+position 198.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3806,7 +3806,7 @@ $EndMODULE  R87
 $MODULE R88
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 104.840000  orientation 0.00
+position 207.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3825,7 +3825,7 @@ $EndMODULE  R88
 $MODULE R89
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 104.840000  orientation 0.00
+position 216.975000 104.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3844,7 +3844,7 @@ $EndMODULE  R89
 $MODULE R90
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 117.975000 113.840000  orientation 0.00
+position 117.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3863,7 +3863,7 @@ $EndMODULE  R90
 $MODULE R91
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 126.975000 113.840000  orientation 0.00
+position 126.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3882,7 +3882,7 @@ $EndMODULE  R91
 $MODULE R92
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 135.975000 113.840000  orientation 0.00
+position 135.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3901,7 +3901,7 @@ $EndMODULE  R92
 $MODULE R93
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 144.975000 113.840000  orientation 0.00
+position 144.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3920,7 +3920,7 @@ $EndMODULE  R93
 $MODULE R94
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 153.975000 113.840000  orientation 0.00
+position 153.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3939,7 +3939,7 @@ $EndMODULE  R94
 $MODULE R95
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 162.975000 113.840000  orientation 0.00
+position 162.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3958,7 +3958,7 @@ $EndMODULE  R95
 $MODULE R96
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 171.975000 113.840000  orientation 0.00
+position 171.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3977,7 +3977,7 @@ $EndMODULE  R96
 $MODULE R97
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 180.975000 113.840000  orientation 0.00
+position 180.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -3996,7 +3996,7 @@ $EndMODULE  R97
 $MODULE R98
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 189.975000 113.840000  orientation 0.00
+position 189.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -4015,7 +4015,7 @@ $EndMODULE  R98
 $MODULE R99
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 198.975000 113.840000  orientation 0.00
+position 198.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -4034,7 +4034,7 @@ $EndMODULE  R99
 $MODULE R100
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 207.975000 113.840000  orientation 0.00
+position 207.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -4053,7 +4053,7 @@ $EndMODULE  R100
 $MODULE R101
 footprint Resistor_SMD:R_0603_1608Metric
 attribut smd
-position 216.975000 113.840000  orientation 0.00
+position 216.975000 113.100000  orientation 0.00
 layer front
 $PAD "1"
 Shape Roundrect Layer front
@@ -4107,50 +4107,38 @@ $EndPAD
 $EndMODULE  RV1
 
 $MODULE SW1
-footprint Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled
+footprint Switch:1101MxSxAxx
 attribut none
-position 137.042500 131.500000  orientation 0.00
+position 139.000000 135.027500  orientation 0.00
 layer front
-$PAD ""
-Shape Circle Layer both
-position -2.000000 -1.750000  size  2.000000  2.000000  orientation 0.00
-drill  1.200000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD ""
-Shape Circle Layer both
-position -2.000000  4.250000  size  2.000000  2.000000  orientation 0.00
-drill  1.200000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD ""
-Shape Circle Layer both
-position 10.000000 -1.750000  size  2.000000  2.000000  orientation 0.00
-drill  1.200000
-shape_offset  0.000000  0.000000
-$EndPAD
-$PAD ""
-Shape Circle Layer both
-position 10.000000  4.250000  size  2.000000  2.000000  orientation 0.00
-drill  1.200000
-shape_offset  0.000000  0.000000
-$EndPAD
 $PAD "1"
 Shape Circle Layer both
-position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  0.900000
+position  4.700000 -9.530000  size  2.500000  2.500000  orientation 0.00
+drill  1.850000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "2"
 Shape Circle Layer both
-position  4.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  0.900000
+position  0.000000 -9.530000  size  2.500000  2.500000  orientation 0.00
+drill  1.850000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "3"
 Shape Circle Layer both
-position  8.000000  0.000000  size  1.700000  1.700000  orientation 0.00
-drill  0.900000
+position -4.700000 -9.530000  size  2.500000  2.500000  orientation 0.00
+drill  1.850000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position -6.605000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  1.850000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Circle Layer both
+position  6.605000  0.000000  size  2.500000  2.500000  orientation 0.00
+drill  1.850000
 shape_offset  0.000000  0.000000
 $EndPAD
 $EndMODULE  SW1

@@ -1,0 +1,28 @@
+Drill report for viewer_rev2.kicad_pcb
+Created on 6/8/2024 2:33:21 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'viewer_rev2-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (115 holes)
+    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T3  1.000mm  0.0394"  (3 holes)
+    T4  1.850mm  0.0728"  (5 holes)
+    T5  2.300mm  0.0906"  (2 holes)
+    T6  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 133
+
+
+Drill file 'viewer_rev2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+
+    Total unplated holes count 2

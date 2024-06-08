@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\4iron\Documents\optogenetic_illuminator\PCB\viewer_rev2.kicad_sch</source>
-    <date>6/8/2024 1:19:53 PM</date>
+    <date>6/8/2024 2:31:21 PM</date>
     <tool>Eeschema 7.0.10</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -46,13 +46,11 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-1140-1-ND</field>
         <field name="JLC">C14663</field>
-        <field name="Mouser">603-CC805KRX7R9BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="DigiKey" value="311-1140-1-ND"/>
-      <property name="Mouser" value="603-CC805KRX7R9BB104"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
@@ -65,13 +63,11 @@
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="DigiKey">311-1140-1-ND</field>
         <field name="JLC">C14663</field>
-        <field name="Mouser">603-CC805KRX7R9BB104</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="DigiKey" value="311-1140-1-ND"/>
-      <property name="Mouser" value="603-CC805KRX7R9BB104"/>
+      <property name="DigiKey" value=""/>
+      <property name="Mouser" value=""/>
       <property name="JLC" value="C14663"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
@@ -249,16 +245,17 @@
     </comp>
     <comp ref="SW1">
       <value>SW_SPDT</value>
-      <footprint>Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled</footprint>
+      <footprint>Switch:1101MxSxAxx</footprint>
+      <datasheet>https://www.ckswitches.com/media/1429/1000.pdf</datasheet>
       <fields>
-        <field name="DigiKey">EG2585-ND</field>
-        <field name="JLC">C273395</field>
-        <field name="Mouser">612-EG1224</field>
+        <field name="DigiKey">CKN11550-ND</field>
+        <field name="JLC">C2800020</field>
+        <field name="Mouser">611-1101M2S5AQE2</field>
       </fields>
       <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
-      <property name="DigiKey" value="EG2585-ND"/>
-      <property name="Mouser" value="612-EG1224"/>
-      <property name="JLC" value="C273395"/>
+      <property name="DigiKey" value="CKN11550-ND"/>
+      <property name="Mouser" value="611-1101M2S5AQE2"/>
+      <property name="JLC" value="C2800020"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="viewer_rev2.kicad_sch"/>
       <property name="ki_description" value="Switch, single pole double throw"/>
@@ -4492,12 +4489,12 @@
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="107" name="Net-(SW1-A)">
+    <net code="107" name="Net-(SW1-C)">
       <node ref="J2" pin="A4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J2" pin="A9" pinfunction="VBUS" pintype="passive"/>
       <node ref="J2" pin="B4" pinfunction="VBUS" pintype="passive"/>
       <node ref="J2" pin="B9" pinfunction="VBUS" pintype="passive"/>
-      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
     </net>
     <net code="108" name="Net-(U1-CV)">
       <node ref="U1" pin="5" pinfunction="CV" pintype="input"/>
@@ -4621,8 +4618,8 @@
     <net code="113" name="unconnected-(J2-SBU2-PadB8)">
       <node ref="J2" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="114" name="unconnected-(SW1-C-Pad3)">
-      <node ref="SW1" pin="3" pinfunction="C" pintype="passive+no_connect"/>
+    <net code="114" name="unconnected-(SW1-A-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive+no_connect"/>
     </net>
   </nets>
 </export>
